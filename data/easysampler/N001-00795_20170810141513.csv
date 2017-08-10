@@ -1,0 +1,33 @@
+EasySampler data export
+Export,Type,Sequence
+      ,Date,2017-08-10 14:15:14
+Device,Type,EasySampler1210
+      ,Version, 5.5.0.0
+      ,Serial number,B540527730
+      ,Last service,2016-10-10 22:00:00
+Probe , Type,ProbeType330
+      , Serial number,B536398325
+      , Last service,2016-12-01 23:00:00
+      , Real pocket size, 20.00 uL
+Vial Size,,10 mL
+Sequence,Name,N001-00795
+,Start time,2017-08-07 16:46:12
+,Stop time,2017-08-07 22:47:07
+
+*Theoretical volume is based on a system without laminar flow effects. The actual quench volume is in the range of 0.8 mL - 1.5 mL depending on the combination of solvents and dilution factor used.
+Samples taken
+Vial number,Date and time,Dilution factor,Quench solvent,Quench solvent including sample,Dilute solvent,Dilute solvent,Reaction solvent,Status,Real pocket volume
+,,,Name,Theoretical volume in vial*,Name,Theoretical volume in vial*,Name
+,yyyy-MM-dd HH:mm:ss,,,mL,,mL,,,uL
+12,2017-08-07 22:47:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+11,2017-08-07 18:47:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+10,2017-08-07 18:17:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+9,2017-08-07 18:02:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+8,2017-08-07 17:47:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+7,2017-08-07 17:32:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+6,2017-08-07 17:17:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+5,2017-08-07 17:12:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+4,2017-08-07 17:07:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+3,2017-08-07 17:02:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+2,2017-08-07 16:57:07,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
+1,2017-08-07 16:52:15,90,ACN,1.076,ACN,0.724,IPA_ACOH,Ok,20
